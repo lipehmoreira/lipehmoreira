@@ -11,6 +11,7 @@
   <img align="center" alt="Filipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Filipe-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Filipe-PHP" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="right" alt="Filipe-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/WUTywPPYZpdDChyBaZ/giphy.gif">
 	
 </div>
   
