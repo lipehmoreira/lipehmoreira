@@ -1,5 +1,5 @@
 ## Hi travellers, i'm currently looking for opportunities to start my carreer as a backend developer, welcome to my profile 
-<div align="center">
+<div style="display: inline_block" align="center">
   <a href="https://github.com/lipehmoreira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lipehmoreira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipehmoreira&layout=compact&langs_count=7&theme=dark"/>
