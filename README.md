@@ -1,7 +1,5 @@
 ## Stacks 
-<img src="{https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue}" />
-![image]({https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E})
-![image]({https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white})
+### Python | JS | SQL
 
 ## Stats
 [![Filipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=lipehmoreira&show_icons=true&theme=gruvbox)](https://github.com/lipehmoreira/github-readme-stats)
