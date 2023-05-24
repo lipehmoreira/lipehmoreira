@@ -5,10 +5,10 @@
 - 🌱 I’m currently learning **Django, Node.js**
 
 
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lipehmoreira&show_icons=true&locale=en" alt="lipehmoreira" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lipehmoreira&show_icons=true&locale=en&layout=compact" alt="lipehmoreira" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lipehmoreira&show_icons=true&locale=en" alt="lipehmoreira" /></p>
+
 
 
 <h3 align="left">Connect with me:</h3>
