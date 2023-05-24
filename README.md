@@ -5,9 +5,11 @@
 - 🌱 I’m currently learning **Django, Node.js**
 
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lipehmoreira&show_icons=true&locale=en&layout=compact&theme=dracula" alt="lipehmoreira" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lipehmoreira&show_icons=true&locale=en&theme=dracula" alt="lipehmoreira" /></p>
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lipehmoreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipehmoreira&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 
 
