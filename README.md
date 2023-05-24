@@ -30,5 +30,5 @@
 </div>
 
 ### Projects:
-[NBA Scores](https://github.com/lipehmoreira/nbascores)
+
 
