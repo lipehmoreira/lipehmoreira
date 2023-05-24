@@ -11,8 +11,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lipehmoreira&show_icons=true&locale=en" alt="lipehmoreira" /></p>
 
 
-<h3 align="right">Connect with me:</h3>
-<p align="right">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://twitter.com/lipehmoreira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lipehmoreira" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/filipesantosm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="filipesantosm" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/19703050/filipe-moreira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19703050/filipe-moreira" height="30" width="40" /></a>
