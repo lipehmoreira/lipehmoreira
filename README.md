@@ -2,7 +2,7 @@
 <h3 align="center">A passionate student looking for a first career opportunity</h3>
 
 
-- 🌱 I’m currently learning **Django, Node.js**
+- 🌱 I’m currently learning **Python, JS and SQL**
 
 
 <div align="center">
