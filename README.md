@@ -9,7 +9,7 @@
 </div>
 
 
-## 🛠 &nbsp;Stack
+## &nbsp;Stacks
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
@@ -22,7 +22,7 @@
 ## Projects
 [NBA Live Scores](https://github.com/lipehmoreira/nbascores)
  
-## 📝 Contact
+##  Contact Info
 <div> 
   <a href = "mailto:filipesantos.py@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/filipesantosm" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
