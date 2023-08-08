@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Filipe</h1>
 
-- 💻 Backend Developer Jr
+- 💻 Atualmente buscando oportunidade de transição de carreira com foco em desenvolvimento Back-end.
   
  <div>
   <a href="https://github.com/lipehmoreira">
