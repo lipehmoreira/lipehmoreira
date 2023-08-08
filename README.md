@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Filipe</h1>
+<h1 align="center">Olá 👋, me chamo Filipe.</h1>
 
 - 💻 Atualmente buscando oportunidade de transição de carreira com foco em desenvolvimento Back-end.
   
