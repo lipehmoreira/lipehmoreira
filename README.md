@@ -1,6 +1,8 @@
-<h1 align="center">Olá 👋, me chamo Filipe.</h1>
+<h1 align="center">Oi 👋, eu sou o Filipe.</h1>
 
 - 💻 Atualmente buscando oportunidade de transição de carreira com foco em desenvolvimento Back-end.
+- 🏈 Apaixonado por Basquete, Futebol Americano e esportes eletronicos.
+- 🎥 Amante de filmes e séries nas horaas de lazer.
   
  <div>
   <a href="https://github.com/lipehmoreira">
