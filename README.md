@@ -1,8 +1,7 @@
-<h1 align="center">Oi 👋, eu sou o Filipe.</h1>
+<h1>Filipe Santos</h1>
+##
 
-- 💻 Atualmente buscando oportunidade de transição de carreira com foco em desenvolvimento Back-end.
-- 🏈 Apaixonado por Basquete, Futebol Americano e esportes eletronicos.
-- 🎥 Amante de filmes e séries nas horaas de lazer.
+💻 Technology professional with extensive experience since 2015. Seeking an opportunity to transition my career and work as a Back-end developer.
   
  <div>
   <a href="https://github.com/lipehmoreira">
@@ -11,9 +10,17 @@
 </div>
 
 
-## &nbsp;Stacks
+## &nbsp;Stacks i know / i´m learning
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/>
+<img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"/>
+<img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs"/>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
 
-Python | Node.js | MySQL | Git | Flask
+
 
 ## Projects
 [NBA Live Scores](https://github.com/lipehmoreira/nbascores)
