@@ -3,11 +3,10 @@
 
 💻 Hi, my name is Filipe, i´m 30 years old and a technology professional with extensive experience since 2015. Currently i´m seeking an opportunity to transition my career and work as a Back-end developer.
   
- <div>
-  <a href="https://github.com/lipehmoreira">
+
+## ![Filipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=lipehmoreira&show_icons=true&theme=gruvbox)
   ![Filipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=lipehmoreira&show_icons=true&theme=gruvbox)
-  ![Filipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=lipehmoreira&show_icons=true&theme=gruvbox)
-</div>
+
 
 
 ## &nbsp;Stacks that i know / i´m learning
