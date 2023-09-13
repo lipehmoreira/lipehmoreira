@@ -5,7 +5,7 @@
   
 
 ## ![Filipe's GitHub stats](https://github-readme-stats-lipehmoreira.vercel.app/api?username=lipehmoreira&show_icons=true&theme=gruvbox)
-## ![Filipe's GitHub stats](https://github-readme-stats-lipehmoreira.vercel.app/api?username=lipehmoreira&show_icons=true&theme=gruvbox)
+![Most Used](https://github-readme-stats-lipehmoreira.vercel.app/api/top-langs/?username=lipehmoreira&hide_progress=true)
 
 
 
