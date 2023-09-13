@@ -5,7 +5,7 @@
   
 
 ## ![Filipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=lipehmoreira&show_icons=true&theme=gruvbox)
-  ![Filipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=lipehmoreira&show_icons=true&theme=gruvbox)
+## ![Filipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=lipehmoreira&show_icons=true&theme=gruvbox)
 
 
 
