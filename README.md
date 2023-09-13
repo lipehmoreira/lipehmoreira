@@ -5,8 +5,8 @@
   
  <div>
   <a href="https://github.com/lipehmoreira">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lipehmoreira&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipehmoreira&layout=compact&langs_count=7&theme=gruvbox"/>  
+  ![Filipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=lipehmoreira&show_icons=true&theme=gruvbox)
+  ![Filipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=lipehmoreira&show_icons=true&theme=gruvbox)
 </div>
 
 
