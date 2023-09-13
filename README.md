@@ -5,7 +5,7 @@
   
 <div>
   <a href="https://github.com/lipehmoreira"><img src="https://github-readme-stats-lipehmoreira.vercel.app/api?username=lipehmoreira&show_icons=true&theme=gruvbox"/></a>
-  <a href="https://github.com/lipehmoreira"><img src="https://github-readme-stats-lipehmoreira.vercel.app/api/top-langs/?username=lipehmoreira&theme=gruvbox&layout=compact"/></a>
+  <a href="https://github.com/lipehmoreira"><img src="https://github-readme-stats-lipehmoreira.vercel.app/api/top-langs/?username=lipehmoreira&theme=gruvbox"/></a>
 </div>
 
 
