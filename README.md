@@ -24,6 +24,7 @@
 
 ## Projects
 [NBA Live Scores](https://github.com/lipehmoreira/nbascores)
+[Dice Game](https://lipehmoreira.github.io/dice-game/)
  
 ##  Contact Info
 <div> 
