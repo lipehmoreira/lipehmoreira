@@ -24,9 +24,9 @@
 
 ## Projects
 <div>
-<p>[NBA Live Scores](https://github.com/lipehmoreira/nbascores)</p>
-<p>[Dice Game](https://lipehmoreira.github.io/dice-game/)</p>
- </div>
+<a href = "https://github.com/lipehmoreira/nbascores">NBA Live Scores</a>
+<a href ="https://lipehmoreira.github.io/dice-game/">Dice Game</a>
+</div>
 ##  Contact Info
 <div> 
   <a href = "mailto:filipesantos.py@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
