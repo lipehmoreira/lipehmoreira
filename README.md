@@ -26,6 +26,7 @@
 <div>
 <a href = "https://github.com/lipehmoreira/nbascores">NBA Live Scores</a><br>
 <a href ="https://lipehmoreira.github.io/dice-game/">Dice Game</a>
+<a href ="https://lipehmoreira.github.io/simon-game/">Simon Game</a>
 </div>
 
 ##  Contact Info
