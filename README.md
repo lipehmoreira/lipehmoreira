@@ -1,7 +1,7 @@
 ## <h1>Filipe Santos</h1>
 
 
-💻 Hi, my name is Filipe, i´m 30 years old and a technology professional with extensive experience since 2015. Currently i´m seeking an opportunity to transition my career and work as a Back-end developer.
+💻 Hi, my name is Filipe, i´m a technology professional with extensive experience since 2015. Currently i´m seeking an opportunity to transition my career and work as a Back-end developer.
   
 <div>
   <a href="https://github.com/lipehmoreira"><img src="https://github-readme-stats-lipehmoreira.vercel.app/api?username=lipehmoreira&show_icons=true&theme=gruvbox"/></a>
