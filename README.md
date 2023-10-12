@@ -3,12 +3,6 @@
 
 💻 Hi, my name is Filipe, i´m a technology professional with extensive experience since 2015. Currently i´m seeking an opportunity to transition my career and work as a Back-end developer.
   
-<div>
-  <a href="https://github.com/lipehmoreira"><img src="https://github-readme-stats-lipehmoreira.vercel.app/api?username=lipehmoreira&show_icons=true&theme=gruvbox"/></a>
-  <a href="https://github.com/lipehmoreira"><img src="https://github-readme-stats-lipehmoreira.vercel.app/api/top-langs/?username=lipehmoreira&theme=gruvbox&layout=compact"/></a>
-</div>
-
-
 ## &nbsp;Skills
 <div>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python"/>
@@ -25,8 +19,6 @@
 ## Projects
 <div>
 <a href = "https://github.com/lipehmoreira/nbascores">NBA Live Scores</a><br>
-<a href ="https://lipehmoreira.github.io/dice-game/">Dice Game</a><br>
-<a href ="https://lipehmoreira.github.io/simon-game/">Simon Game</a>
 </div>
 
 ##  Contact Info
